@@ -18540,10 +18540,6 @@ table.dataTable.no-footer {
     width: 100%
 }
 
-.title-main {
-    text-shadow: 3px 3px 2px rgba(40, 40, 40, .5)
-}
-
 .ega-list ul li {
     color: #d79e12;
     padding-bottom: .5em;
@@ -20773,24 +20769,40 @@ header .top-middle {
     border-top: 2px solid #2d4a84
 }
 
-header .top-middle .emblem,
-header .top-middle .logo {
-    width: 12rem
+header .top-middle .emblem {
+    width: auto;
+    height: 80px;
+}
+
+header .top-middle .client-logo {
+    width: 70px;
+    height: 80px;
 }
 
 header .top-middle .title {
-    color: #fff;
+    color: whitesmoke;
+    /* #007bff #17a2b8; #17a2b8; #0e789d #007bff */
     line-height: 1;
-    font-family: Roboto-Bold
+    font-family: Roboto-Bold;
 }
 
-header .top-middle .text-dec {
-    color: #fff;
+/* TODO remove it if necessary  */
+header .top-middle .title-main {
+    text-shadow: 3px 3px 2px rgba(40, 40, 40, .5)
+}
+header .top-middle .title-desc {
+    color: whitesmoke;
+}
+
+header .top-middle .text-desc {
+    color: whitesmoke;
     font-size: 2.8rem
 }
 
-header .top-middle .client-logo img {
-    width: 60% !important
+header .top-middle .logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 header .top-bottom .navbar {
@@ -20799,7 +20811,7 @@ header .top-bottom .navbar {
 
 header .top-bottom .navbar .navbar-nav>li {
     padding: .2em .4em;
-    border-top: 5px solid #2d4a84
+    border-top: 5px solid #2d4a84;
 }
 
 header .top-bottom .navbar .navbar-nav>li:first-child {
