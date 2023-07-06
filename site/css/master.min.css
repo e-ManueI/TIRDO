@@ -18540,13 +18540,13 @@ table.dataTable.no-footer {
     width: 100%
 }
 
-.ega-list ul li {
+.tirdo-list ul li {
     color: #d79e12;
     padding-bottom: .5em;
     padding-top: .5em
 }
 
-.ega-list ul li .icon {
+.tirdo-list ul li .icon {
     width: 40px;
     font-size: 18px;
     padding-top: 2px;
@@ -18555,13 +18555,13 @@ table.dataTable.no-footer {
     vertical-align: top
 }
 
-.ega-list ul li .text {
+.tirdo-list ul li .text {
     display: table-cell;
     vertical-align: middle
 }
 
-.ega-list ul li .icon,
-.ega-list ul li a span {
+.tirdo-list ul li .icon,
+.tirdo-list ul li a span {
     color: #d79e12
 }
 
@@ -19182,7 +19182,7 @@ a.read-more:hover:after {
         float: left !important
     }
 
-    .ega-heading-2 {
+    .tirdo-heading-2 {
         margin-bottom: 10px !important
     }
 
@@ -19350,7 +19350,7 @@ a.read-more:hover:after {
         float: left !important
     }
 
-    .ega-heading-2 {
+    .tirdo-heading-2 {
         margin-bottom: 10px !important
     }
 
@@ -19690,11 +19690,11 @@ a.read-more:hover:after {
     width: 100px
 }
 
-.ega-meeting {
+.tirdo-meeting {
     margin-bottom: 100px
 }
 
-.ega-meeting .overlay {
+.tirdo-meeting .overlay {
     width: 200px;
     height: 200px;
     display: block;
@@ -19710,22 +19710,22 @@ a.read-more:hover:after {
     opacity: 1
 }
 
-.ega-meeting .overlay img {
+.tirdo-meeting .overlay img {
     height: 90%;
     margin-top: 5%;
     width: 90%;
     margin-left: 5%
 }
 
-.ega-meeting .overlay-left {
+.tirdo-meeting .overlay-left {
     margin-left: -25px
 }
 
-.ega-meeting .overlay-right {
+.tirdo-meeting .overlay-right {
     left: 255px
 }
 
-.ega-meeting img {
+.tirdo-meeting img {
     display: block;
     width: 100%;
     position: relative;
@@ -19737,12 +19737,12 @@ a.read-more:hover:after {
     box-shadow: -20px 20px 69px -27px rgba(0, 0, 0, .33)
 }
 
-.ega-meeting .meeting-title {
+.tirdo-meeting .meeting-title {
     font-size: 34px;
     text-transform: capitalize
 }
 
-.ega-meeting .video-testimonial-block {
+.tirdo-meeting .video-testimonial-block {
     height: 120px
 }
 
@@ -19845,7 +19845,7 @@ a.read-more:hover:after {
         font-size: 14px
     }
 
-    .ega-meeting {
+    .tirdo-meeting {
         margin-bottom: 10px
     }
 
@@ -19869,11 +19869,11 @@ a.read-more:hover:after {
         font-size: 38px
     }
 
-    .ega-meeting .overlay {
+    .tirdo-meeting .overlay {
         display: none
     }
 
-    .ega-meeting .video-testimonial-block {
+    .tirdo-meeting .video-testimonial-block {
         height: 150px
     }
 }
@@ -21082,56 +21082,56 @@ header .top-bottom .navbar .search .search-form .form-inline input.form-control:
     line-height: 2
 }
 
-.ega-footer {
+.tirdo-footer {
     font-size: 14px;
     background: #2d4a84;
     padding: 0
 }
 
-.ega-footer a,
-.ega-footer p {
+.tirdo-footer a,
+.tirdo-footer p {
     color: hsla(0, 0%, 100%, .8)
 }
 
-.ega-footer a:hover {
+.tirdo-footer a:hover {
     color: rgba(215, 158, 18, .8)
 }
 
-.ega-footer .footer-content {
+.tirdo-footer .footer-content {
     padding: 30px 0 10px;
     color: #797979;
     font: 400 15px/24px Roboto
 }
 
-.ega-footer .footer-content .footer-heading {
+.tirdo-footer .footer-content .footer-heading {
     color: hsla(0, 0%, 100%, .9);
     font: 400 21px/25px Roboto-Bold;
     display: inline-block;
     margin-top: 0
 }
 
-.ega-footer .footer-content .footer-links {
+.tirdo-footer .footer-content .footer-links {
     border-top: 1px solid #e0b772;
     display: block;
     clear: both;
     padding-top: 18px
 }
 
-.ega-footer .footer-content .footer-links .list a {
+.tirdo-footer .footer-content .footer-links .list a {
     /* text-transform: capitalize; */
     padding-right: 15px
 }
 
-.ega-footer .footer-content .footer-media a {
+.tirdo-footer .footer-content .footer-media a {
     font: 400 19px/25px FontAwesome;
     padding: 0 10px
 }
 
-.ega-footer .footer-content .footer-media a .icon {
+.tirdo-footer .footer-content .footer-media a .icon {
     color: hsla(0, 0%, 100%, .9)
 }
 
-.ega-footer .credit {
+.tirdo-footer .credit {
     background-color: #273f71;
     padding: 15px 0;
     color: #212121;
@@ -24294,14 +24294,14 @@ div.contact form button.btn {
     background: #bf8d10
 }
 
-.ega-announcement .news-holder {
+.tirdo-announcement .news-holder {
     background: #fff;
     padding: 15px 20px;
     margin-bottom: 15px;
     overflow: hidden
 }
 
-.ega-announcement .post-date {
+.tirdo-announcement .post-date {
     width: 100%;
     background: #2d4a84;
     color: #fff;
@@ -24309,11 +24309,11 @@ div.contact form button.btn {
     padding: 10px
 }
 
-.ega-announcement .news-title {
+.tirdo-announcement .news-title {
     color: #333
 }
 
-.ega-announcement .news .news-title {
+.tirdo-announcement .news .news-title {
     margin-top: 0;
     margin-bottom: 5px
 }
@@ -24839,22 +24839,22 @@ div.contact form button.btn {
     border-bottom: 1rem solid transparent
 }
 
-.ega-btn-line {
+.tirdo-btn-line {
     border-bottom: 2px solid #2d4a84;
     transition: all .5s ease
 }
 
-.ega-btn-line .bg-yellow {
+.tirdo-btn-line .bg-yellow {
     background: rgba(255, 193, 7, .9);
     color: #fff
 }
 
-.ega-btn-line .bottom-line .badge {
+.tirdo-btn-line .bottom-line .badge {
     transition: all .5s ease;
     background: #d79e12
 }
 
-.ega-btn-line:hover {
+.tirdo-btn-line:hover {
     border-bottom: 2px solid #d79e12
 }
 
@@ -25019,7 +25019,7 @@ div.contact form button.btn {
         max-width: 100%
     }
 
-    .home-page .ega-heading-2 {
+    .home-page .tirdo-heading-2 {
         text-align: center
     }
 
@@ -25055,7 +25055,7 @@ div.contact form button.btn {
         text-align: justify
     }
 
-    .home-page .ega-heading-2,
+    .home-page .tirdo-heading-2,
     .home-page .welcome-title h3 {
         text-align: center
     }
