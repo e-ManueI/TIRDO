@@ -38,7 +38,7 @@
 }
 
 html {
-    font-family:Verdana,Geneva,sans-serif;
+    font-family: Verdana, Geneva, sans-serif;
     line-height: 1.15;
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0)
@@ -54,7 +54,7 @@ hgroup,
 main,
 nav,
 section {
-    display: block
+    display: block,
 }
 
 body {
@@ -4195,7 +4195,7 @@ input[type=submit].btn-block {
 
 .nav-link {
     display: block;
-    padding: .5rem 1rem
+    padding: .5rem 1rem;
 }
 
 .nav-link:focus,
@@ -18763,7 +18763,7 @@ button.white-primary:hover {
 }
 
 .section-title {
-    font-family: Roboto-Bold;
+    font-family: Verdana, Geneva, sans-serif;
     color: #273f71;
     font-size: 1.575rem;
     /* font-size: 1.875rem; */
@@ -20788,7 +20788,8 @@ header .top-middle .title {
 
 /* TODO remove it if necessary  */
 header .top-middle .title-main {
-    text-shadow: 3px 3px 2px rgba(40, 40, 40, .5)
+    text-shadow: 3px 3px 2px rgba(40, 40, 40, .5);
+    font-family: Verdana, Geneva, sans-serif;
 }
 header .top-middle .title-desc {
     color: whitesmoke;
@@ -20815,17 +20816,17 @@ header .top-bottom .navbar .navbar-nav>li {
 }
 
 header .top-bottom .navbar .navbar-nav>li:first-child {
-    border-left: none
+    border-left: none;
 }
 
 header .top-bottom .navbar .navbar-nav>li:last-child {
-    border-right: none
+    border-right: none;
 }
 
 header .top-bottom .navbar .navbar-nav>li a {
     color: #fff;
     font-size: .9em;
-    font-family: Roboto-Bold
+    font-family: Verdana, Geneva, sans-serif;
 }
 
 header .top-bottom .navbar .navbar-nav>li.active,
@@ -21100,12 +21101,12 @@ header .top-bottom .navbar .search .search-form .form-inline input.form-control:
 .tirdo-footer .footer-content {
     padding: 30px 0 10px;
     color: #797979;
-    font: 400 15px/24px Roboto
+    font: 400 15px/24px Verdana, Geneva, sans-serif;
 }
 
 .tirdo-footer .footer-content .footer-heading {
     color: hsla(0, 0%, 100%, .9);
-    font: 400 21px/25px Roboto-Bold;
+    font: 400 21px/25px Verdana, Geneva, sans-serif;
     display: inline-block;
     margin-top: 0
 }
@@ -21123,7 +21124,7 @@ header .top-bottom .navbar .search .search-form .form-inline input.form-control:
 }
 
 .tirdo-footer .footer-content .footer-media a {
-    font: 400 19px/25px FontAwesome;
+    font: 400 19px/25px Verdana, Geneva, sans-serif;
     padding: 0 10px
 }
 
@@ -23932,7 +23933,7 @@ div.contact form button.btn {
 }
 
 .home-page .nav-item {
-    margin-top: -.3rem
+    margin-top: -.3rem;
 }
 
 .home-page .nav-item .nav-link {
@@ -23943,7 +23944,7 @@ div.contact form button.btn {
     font-size: 2rem;
     color: #495057;
     border-bottom: .3rem solid transparent;
-    transition: all .3s ease
+    transition: all .3s ease;
 }
 
 .home-page .nav-item .nav-link.active {
